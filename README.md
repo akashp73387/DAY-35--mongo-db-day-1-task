@@ -1,1 +1,1 @@
-i had learned to write few mongosh query  
+In this repository, you'll find a JSON file containing product data for MongoDB exercises. Use this data to practice MongoDB queries and deepen your understanding of database operations. Each exercise is accompanied by a corresponding MongoDB query to help you master essential concepts and commands.
